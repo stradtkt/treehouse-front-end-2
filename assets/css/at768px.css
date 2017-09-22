@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    .p-container {
+        position: relative;
+        right: 30px !important;
+        width: 300px;
+    }
+    .head-img {
+        width: 350px !important;
+        height: 190px !important;
+        position: relative;
+        left: 1%
+    }
+}
