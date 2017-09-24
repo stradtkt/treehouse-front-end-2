@@ -26,10 +26,11 @@
     .back-to-top {
         display: none !important;
     }
-    .contact,
+    .contact-link,
     .portfolio,
     .home {
         display: inline-block !important;
         padding: 0 20px
     }
+
 }
