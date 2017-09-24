@@ -2,4 +2,12 @@
     #mobile-nav {
         display: none;
     }
+    .head-img {
+        position: relative;
+        left: 90% !important;
+    }
+    div.p-container {
+        position: relative;
+        right: 90% !important;
+    }
 }

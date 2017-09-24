@@ -37,6 +37,7 @@
     .p-container {
         position: relative;
         right: 34px !important;
+        width: 300px;
     }
     section {
         width: 100% !important;
@@ -58,5 +59,10 @@
  }
  .footer-link {
      font-size: 18px !important;
+ }
+ .contact,
+ .portfolio,
+ .home {
+     display: none;
  }
 }

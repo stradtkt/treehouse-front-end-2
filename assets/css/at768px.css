@@ -14,4 +14,22 @@
         position: relative;
         left: 2% !important;
     }
+    #mobile-nav .mobile-nav {
+        display: none !important;
+    }
+    div#mobile-nav {
+        display: none !important;
+    }
+    nav.navbar {
+        display: inline !important;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    .contact,
+    .portfolio,
+    .home {
+        display: inline-block !important;
+        padding: 0 20px
+    }
 }
